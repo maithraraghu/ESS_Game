@@ -11,7 +11,7 @@ https://github.com/rubai5/gym
 
 https://github.com/rubai5/baselines
 
-To get the jupyter kernel to work well with the virtual environment, you can set up according to e.g.:
+To get the jupyter kernel to work with the packages in the virtual environment, you can set up according to e.g.:
 
 https://anbasile.github.io/programming/2017/06/25/jupyter-venv/
 
